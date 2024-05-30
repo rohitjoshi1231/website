@@ -195,8 +195,8 @@ img {
   color: var(--first-color);
 }
 .home__social {
-  display: flex;
-  flex-direction: column;
+  display:block;
+  flex-direction:column;
 }
 .home__social-icon {
   width: max-content;
